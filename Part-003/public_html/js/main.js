@@ -1,7 +1,7 @@
 require.config({
     baseUrl: './',
     paths: {
-        buyer: 'js/modules/buyer'
+        buyer: 'js/module1/buyer'
     },
     waitSeconds: 2
 });
